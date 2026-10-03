@@ -1,2 +1,6 @@
 # GitHub-Intro
-A Repository for Learning Git and GitHub
+
+This repository demonstrates basic Git and GitHub version control.
+
+&#x20;
+
